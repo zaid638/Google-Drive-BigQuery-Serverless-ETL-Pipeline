@@ -6,7 +6,7 @@ A data pipeline that ingests Google Sheets from a Drive folder, lands them in Bi
 
 This pipeline automates the end-to-end flow of turning scattered Google Sheets into analytics-ready data in BigQuery, with no manual intervention after deployment.
 
-![archtecture]([BQ_data_warehose_project_2.png](https://github.com/zaid638/Google-Drive-BigQuery-Serverless-ETL-Pipeline/blob/main/BQ_data_warehose_project_2.png))
+![archtecture](https://github.com/zaid638/Google-Drive-BigQuery-Serverless-ETL-Pipeline/blob/main/BQ_data_warehose_project_2.png)
 <!-- 
 **Flow:**
 ```
